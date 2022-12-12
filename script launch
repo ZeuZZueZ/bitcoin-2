@@ -1,0 +1,9 @@
+<dev> name :script server core bitcoin
+    <dev> name :script server dogecoin 
+      <dev> name :script server shiba-inu
+     <dev> name :script server litecoin 
+     <dev> name :script server tether 
+        <dev> name :script server etherum 
+          <dev> name :script server solana 
+        <dev> name :script server bitcoin cash 
+  
