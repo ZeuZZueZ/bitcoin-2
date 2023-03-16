@@ -211,9 +211,9 @@ skipKeywords:
   - wip
 ## Backers
 
-Thank you to all our backers! 🙏 [[Become a backer](https://opencollective.com/curl#backer)]
+Thank you to all our backers! 🙏 [[Become a backer](https://bitcoin.org/curl#backer)]
 
-[![Open Collective Backers](https://opencollective.com/curl/backers.svg?width=890)](https://opencollective.com/curl#backers)
+)
 
 ## Sponsors
 Gif:<>\∆
