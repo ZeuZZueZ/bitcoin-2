@@ -216,8 +216,8 @@ Thank you to all our backers! 🙏 [[Become a backer](https://opencollective.com
 [![Open Collective Backers](https://opencollective.com/curl/backers.svg?width=890)](https://opencollective.com/curl#backers)
 
 ## Sponsors
+Gif:<>\∆
 
-<p><img align="left" c.c." alt="bits" /></p>
 <br>//amanciojsilvjr<bitcoin> <👉>
 <br>//amanciojsilvjr<bitcoin> <👉>
 <br>//amanciojsilvjr<bitcoin> <👉>
@@ -230,7 +230,7 @@ source e passe um sinalizador de visibilidade (--public, --private ou --internal
 
 editor.find.seedSearchStringFromSelection to false.
 
-Find In Selection#
+Find In Selection #
 
 
 # bitcoin <e> script<a/b> amanciojsilvjr® https://facebook.com/amanciojunior
