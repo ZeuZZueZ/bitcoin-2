@@ -63,91 +63,6 @@ A static [btc](https://g.page/amanciojsilvjr) site for hosting [amanciojsilvjr.c
 Bitcoin (BTC) is a decentralized currency that eliminates the need for central authorities such as banks or governments by using a peer-to-peer 
 internet network to confirm transactions directly between users [jodhqesh](https://github.com/BTCXBT).
 
-
-# Welcome to developer.bitcoin.org's codebase
-
-Live site: [developer.bitcoin.org](https://developer.bitcoin.org)
-
-Report problems or help improve the site by opening a [new
-issue](https://github.com/bitcoin-dot-org/developer.bitcoin.org/issues) or [pull
-request](https://github.com/bitcoin-dot-org/developer.bitcoin.org/compare).
-
-## How to contribute
-
-This repo hosts the sources for the Bitcoin developer documentation. One of the
-easiest ways to get started contributing is by rereading the site and looking for
-inconsistencies in terminology, style, etc., and also in any illustrations.
-
-Prior to contributing, please review the [style
-guide](https://github.com/bitcoin-dot-org/developer.bitcoin.org/tree/master/docs/style-guide.md).
-
-Much of the content displayed on the is converted from Markdown to
-[reStructuredText (RST)](http://docutils.sourceforge.net/rst.html) and rendered
-with [Sphinx](http://www.sphinx-doc.org).
-
-### Render the documentation locally
-
-To render the documentation locally you first need to install Sphinx and the
-required theme modules, e.g. by running
-
-    pip install -r requirements.txt
-
-
-Translations
-------------
-
-Changes to translations as well as new translations can be submitted to
-[Bitcoin Core's Transifex page](https://www.transifex.com/bitcoin/bitcoin/).
-
-Translations are periodically pulled from Transifex and merged into the git repository. See the
-[translation process](doc/translation_process.md) for details on how this works.
-
-**Important**: We do not accept translation changes as GitHub pull requests because the next
-pull from Transifex would automatically overwrite them again.
-
-
-# Amanciojsilvjr bitcoin scroll 
-fig = plt.figure()
-# naming the title of the plot
-
-ax1 = fig.add_axes([0, 0, 2, 2])
-x = [0,T/10, T/5, (3/10)*T, (4/10)*T,(5/10)*T,(6/10)*T,(7/10)*T,(8/10)*T,(9/10)*T,T]
-ax1.plot(market_time)
-labels = [0,.5, 1, 1.5, 2, 2.5, 3,3.5,4,4.5,5]
-plt.yticks(x,labels)
-plt.xticks(x,labels)
-plt.xlabel("Time (year)")
-plt.ylabel("Market time (in year)")
-plt.title("Where is the market time (compared to actual time)")
-plt.show()
-150.000.000 btc original run third party blockchain 
-fractional_reserve = liquid_reserve/liabilities
-fig = plt.figure()
-# naming the title of the plot
-
-ax1 = fig.add_axes([0, 0, 2, 2])
-x = [0,T/10, T/5, (3/10)*T, (4/10)*T,(5/10)*T,(6/10)*T,(7/10)*T,(8/10)*T,(9/10)*T,T]
-ax1.plot(fractional_reserve)
-labels = [0,.5, 1, 1.5, 2, 2.5, 3,3.5,4,4.5,5]
-plt.xticks(x,labels)
-plt.xlabel("Time (year)")
-plt.ylabel("Amount of reserve")
-plt.title("Liquid reserve over time")
-plt.show()
-btc@xbt
-fig = plt.figure()
-# naming the title of the plot
-
-ax1 = fig.add_axes([0, 0, 2, 2])
-x = [0,T/10, T/5, (3/10)*T, (4/10)*T,(5/10)*T,(6/10)*T,(7/10)*T,(8/10)*T,(9/10)*T,T]
-ax1.plot(percentage_usd_deposited*100)
-labels = [0,.5, 1, 1.5, 2, 2.5, 3,3.5,4,4.5,5]
-plt.xticks(x,labels)
-plt.xlabel("Time (year)")
-plt.ylabel("%")
-plt.title("% of USD currently deposited")
-plt.show()
-netanojohhny@gmail.com
 bitcoin.org/bitcoin-bitcoin
 ## bitcoin XBT
 
@@ -161,49 +76,7 @@ We'd love transcripts in other languages so we've made every effort to make i18n
 
 This project was based on [XBT](https://www.blockchain.com/explorer/assets/btc) and would not be possible without the many years of work by The master branch is regularly built (see doc/build-*.md for instructions)
 
-The styling of this site is based on a modified version of the [ace documentation](https://github.com/vantagedesign/ace-documentation) theme.
-mkdir $HOME/src
-cd $HOME/src
-git clone https://bitcoin.org/
-Make sure that you do not have `walletbroadcast=0` in your `~/.bitcoin/bitcoin.conf`, or you may run into trouble.
-Notice that running `lightningd` against a pruned node may cause some issues if not managed carefully, see [below](#pruning) for more information.
-go install --tags extended
-# Example configuration file that:
-#  - Ignores lodash dependency
-#  - Disables version-updates
-
-version: 2
-updates:
-  - package-ecosystem: "npm"
-    directory: "/"
-    schedule:
-      interval: "daily"
-    ignore:
-      - dependency-name: "lodash"
-        # For Lodash, ignore all updates
-    # Disable version updates for npm dependencies
-    open-pull-requests-limit: 0
-jobs:
-  job_id:
-    # ...
-
-    # Add "id-token" with the intended permissions.
-    permissions:
-      contents: 'read'
-      id-token: 'write'
-
-    steps:
-    # actions/checkout MUST come before auth
-    - uses: 'actions/checkout@v3'
-
-    - id: 'auth'
-      name: 'Authenticate to Google Cloud'
-      uses: 'google-github-actions/auth@v0'
-      with:
-        workload_identity_provider: 'projects/123456789/locations/global/workloadIdentityPools/my-pool/providers/my-provider'
-        service_account: 'my-service-account@my-project.iam.gserviceaccount.com'
-
-    # ... further steps are automatically authenticated
+# ... further steps are automatically authenticated
 # Amanciojsilvjr to your organization's bitcoin respository
 This code repository (or "repo") is designed to demonstrate the best GitHub has to offer with the least amount of noise.
 
