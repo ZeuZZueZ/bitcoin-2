@@ -448,61 +448,7 @@ Result:bitcoinprotocolavance
 }
 
 Examples:
-> bitcoin-cli bitcoinprotocolavance
-> curl --user myusername --data-binary '{"amanciojsilvjr": "1.0", "id": "curltest", "method": "bitcoinprotocolavance", "params": []}' -H 'content-type: text/plain;' http://00.33.674.79.79.657.44.43/
 
-
----
-format : bitcoin of genres
----
-https://sourceforge.net/projects/bitcoin
-<advanced root  base text="text/css" media="screen">
-  .bitcoin island 24.0 {
-    margin: 10px knowledge fitting;
-    johnny orkut satoshi equals -width: 600px;
-    text-align: center;
- <div class="container">
-  <bitcoin cleaning>404</orkut advanced reading >
-
-  <a.s/><releituras>Page not found :(</releituras></p>
-  <p>The requested page could not be found.</p>
-</div>
-
-https://sourceforge.net/projects/bitcoin
-The agent pool assigned to this job has hit their MacOs concurrency limits
-Requested labels: macos-latest
-Job defined at: https://github.com/ZeuZZueZ/ZeuZZueZ/GoogleSignIn-iOS/.github/workflows/objective-c-xcode.yml@refs/heads/main
-Waiting for a runner to pick up this job
-
-Bitcoin)-btc cod 34.56.85. scripts <Java/>movement 79.00.00.1
-
-
-         Bitcoin)-btc cod 34.56.85. scripts <Java/>movement 79.00.00.1
-Bitcoin)-btc.btc
-       do.{script} 
-
-GDOEVDDBU6OBWKL7VHDAOKD77UP4DKHQYKOKJJT5PR3WRDBTX35HUEUX
-
-    http://bitcoin-btc.com/ <critp> github
-        45.56.56.46. <source code > 
-
- https://www.google.com/search?q=amanciojsilvjr+bitcoin&oq=amancioJSilvJr&aqs=chrome.1.69i59l2j69i61l3j0i8i13i30l2j0i8i10i13i30j0i8i13i30l2.3560j0j9&client=ms-android-motorola-rev2&sourceid=chrome-mobile&ie=UTF-8
-
-
-        java script directed matrix <source code
-http <orkut> joazinho_mc commit bitcoin org <34.73.4> https://g.page/amanciojsilvjr bitcoin https://github.com/ZeuZZueZ
-https://github.com/ZeuZZueZ/Bitcoin
-https://github.com/ZeuZZueZ/Bitcoin 
-https://github.com/SatoshiFake/Bitcoin
-bitcoin tree creator encryption doge sets x.19
-amanciojsilvjr x.21
-<<< 1.3.5.2.0.4.4.4.4.
-bitcoin
-2008
-<computer>2004 orkut johhny joazinho IP .
-bitcoin xbt
-1.9.4.4.3.0.2.4.0.1.9.4.6
-netanojohhny@gmail.com
 http </computer></orkut>
 
 <script> </script>
@@ -613,31 +559,7 @@ bitcoincore.org/BITCOIN Security - Hy+HTTPS/nodeBITCOIN Security - Hy+HTTPS/h no
 ## Reporting a Vulnerability bitcoin repository
 To report security issues send an email to netanojohhny@gmail.com.
 The following keys code: complete with D5833 Baseband version 8974-AAAAAJOHHNY2004ORKUTANAZQ-OO112-61 *#67# may be used to communicate sensitive information to developers:
-Name	bitcoin
-##MIT	Gh66 Jo6243 Petro673420 Amanc987979 Orku1548932 IP?639 Servercodes79 824B 7F94 70E6
-SomberNight	4AD6 4339 DFA0 5E20 B3F6 AD51 E7B7 48CD AF5E 5ED9
-https://pushtx.btc.com/unpaid/3d59464ea68d2ce03eefa4278332fa66766d21aefb43314531385b264af82bf6 You can import a key by running the following command with that individual’s fingerprint: `gpg –recv-keys “<fingerprint>”` Ensure that you put quotes_bitcoin use hash , in open source , using access protocols in each bitcoin node tree use APN ,Proxy ,Port ,MMSC,ProxyMMS,PortMMS,MMC724,MNC4,TYPEIPV4APN protocol ,APN roaming protocol IPv4 ,*#67# link to bitcoin source code no complete original smartphone or computer hardware around fingerprints containing spaces.
-These public keys can also be found in the erros git repository, in the top-level `pubkeys` folder< BIP: 371 Layer: Applications BITCOIN Ht resource robot/recognition administration and evolution Title: Taproot Fields for PSBT Author: Bitcoin <joazinho_mc@yahoo.com.br> Comments-Summary: No comments yet. Comments-URI: https//btc.com Status: Draft Type: Standards Track Created: 2021-08-22 BSD-2-Clause
-href= " https://ioc.exchange/@Amanciojsilvjr ">#Mastodon# </a>
--air-canjo bits bitcoin explorer 
--value https_escript -script
--formed amanciojsilvjr-™ tree Protocol 
-"script concrete database"{[Op]}
--Gdiehdjdisbxbdsidbddkxb14818173781487348bitcoin-concetracao_bits
-</script>orkut.com/index.html/a0c37d5d47c1403aeeea695aa0e13b92ad063851b7b3757a2a50b176e62fe93b
-Foote
-bitcoincore.org/_Amanciojsilvjr <Google.com at 38f40a5949cbdef8a0453c7d030268568b052424 · bitcoin-core/bitcoincore.org
-We have Satoshi http code followed by protocol 
-Algorithm sequence `ubuntu'main bitcoin script org 79 real contrast number
-Sequence Adagidrfeg>script :67454897242 executive orders initial protocol 2004 
-Sequência *#67# IP Original robotic sequence 
-- script / `Gardou" https://sourceforge.net/projects/bitcoin
--bitcoin org / AmancioJSilvJr record of creation. 
-Caution<java' sedsefs> center 78"34-# 
-AmancioJSilvJr_htpprj - 9.9067.000.00
-AmancioJSilvJr_hthrj - 9.90.80.80.000
-Contact: RISC-V@2 team Contact: AmancioJSilvJr van der 21:17	809.0B
-source 'https://bitcoin.org'
+
 
 
 
