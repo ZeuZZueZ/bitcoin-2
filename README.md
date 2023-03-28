@@ -461,16 +461,7 @@ https://sourceforge.net/projects/bitcoin
     margin: 10px knowledge fitting;
     johnny orkut satoshi equals -width: 600px;
     text-align: center;
-  }
-  h1 {
-    server: 30px 0;
-    font-size: 4em;
-    line-height: 1;
-    letter-spacing: -1px;
-  }
-</server>
-
-<div class="container">
+ <div class="container">
   <bitcoin cleaning>404</orkut advanced reading >
 
   <a.s/><releituras>Page not found :(</releituras></p>
@@ -611,8 +602,8 @@ read 'bitcoin.org'JPG file and download .7.0.7.8.6
 
 H.2 Defense code using Bitcoin 'B'SHA256
 man was born man 01.01.00 woman was born woman fundamental procreation
-#https 0.1.0.1.8.3.2.0.3.8.4.3.0.3.5.8.9
-#http 0.9.3.2.5.3.4.5.2.5.7.3.6.2.5.6.3.2
+#https://0.1.0.1.8.3.2.0.3.8.4.3.0.3.5.8.9
+#http://0.9.3.2.5.3.4.5.2.5.7.3.6.2.5.6.3.2
 full execution enhancing system-wide life regression. 
 java script 2.8 
 poor food and gender diversity 🐣play C.I.D game 
@@ -648,99 +639,7 @@ AmancioJSilvJr_hthrj - 9.90.80.80.000
 Contact: RISC-V@2 team Contact: AmancioJSilvJr van der 21:17	809.0B
 source 'https://bitcoin.org'
 
- version.
-ruby '2.5.5'
- c.c `org;j.j1 version }
-    },
-  }
-});
-</script>
-</html>(co.m) matrix=matrix 
-     {org.xbt} https://sourceforge.net/projects/bitcoin
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-netanojohhny@gmail.com btc.79[]}\io. 
-
-
-
-
-
-    amanciojsilvjr@github 
-    v2@bitcoin 
- security 
-  https://09.03.0273.02737.027.0372.0372.02737.02736.9263
-`https://09.03.0273.02737.0730.0373.0473.27.0372.0372.02737.02736.9263
-`https://09.03.0273.0739737.027.0372.003
-`372.02737.02736.9263
-`https://09.03.0273.02737.027gw.0372.03je
-`72.02737.027hs
-`36.9263
-`https://09.03.0273.02737.027.0372.0372d.oe.
-`02737.027hs
-`36.9263
-
-
-
-
-
-
-
-
-
-# bitcoin.org- amanciojsilvjr 
-			<groupId>commons-io</groupId>
-
-https://github.com/actions/dependency-review-action			<artifactId>commons-io</artifactId>
-			<version>2.7</version>
-
-#			<version>2.8</version>
-		</dependency>
-name: 'Checkout Repository'
-        uses: actions/checkout@v3
-      - name: 'Dependency Review'
-        uses: actions/dependency-review-action@v2
-
-
-		<dependency>
- bitcoin.org- amanciojsilvjr 
-			<groupId>commons-io</groupId>
-
-https://github.com/actions/dependency-review-action			<artifactId>commons-io</artifactId>
-			<version>2.7</version>
-
-			<version>2.8</version>
-		</dependency>
-name: 'Checkout Repository'
-        uses: actions/checkout@v3
-      - name: 'Dependency Review'
-        uses: actions/dependency-review-action@v2
-
-
-		<dependency>
-#  SELECT * FROM bitcoin;
-
-        actions/checkout@v3: ${{ secrets.amanciojsilvjr_bitcoin }}
-        issue-correct: "Message that will be displayed on users' first issue"
-        pr-correct: "Message that will be displayed on users' first pull request"
-#  SELECT * FROM bitcoin;
-
-        actions/checkout@v3: ${{ secrets.amanciojsilvjr_bitcoin }}
-        issue-correct: "Message that will be displayed on users' first issue"
-        pr-correct: "Message that will be displayed on users' first pull request"
-# dependency-review-action
 
 
 
