@@ -321,8 +321,8 @@ read 'bitcoin.org'JPG file and download .7.0.7.8.6
 
 H.2 Defense code using Bitcoin 'B'SHA256
 man was born man 01.01.00 woman was born woman fundamental procreation
-#https: 0.1.0.1.8.3.2.0.3.8.4.3.0.3.5.8.9
-#http:  0.9.3.2.5.3.4.5.2.5.7.3.6.2.5.6.3.2
+# https: 0.1.0.1.8.3.2.0.3.8.4.3.0.3.5.8.9
+# http:  0.9.3.2.5.3.4.5.2.5.7.3.6.2.5.6.3.2
 full execution enhancing system-wide life regression. 
 java script 2.8 
 poor food and gender diversity 🐣play C.I.D game 
