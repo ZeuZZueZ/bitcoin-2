@@ -325,10 +325,10 @@ man was born man 01.01.00 woman was born woman fundamental procreation
 # http:  0.9.3.2.5.3.4.5.2.5.7.3.6.2.5.6.3.2
 # full execution enhancing system-wide life regression. 
 java script 2.8 
-poor food and gender diversity 🐣play C.I.D game 
-https input box html input code  
+# poor food and gender diversity 🐣play C.I.D game 
+# https input box html input code  
 234.647.746.584.368.345.635.7467.267446.43.c 313.636.6236.52.4e.424e. Je.defense fault code €£>sha256 p&p port entry<e> <10.10> matrix <a/> <z/> bitcoin 24.0 <h/>
-bitcoincore.org/BITCOIN Security - Hy+HTTPS/nodeBITCOIN Security - Hy+HTTPS/h node g6/>%Amanciojsilvjr<CryptoGraphyBTC.orh BITCOIN-.org
+# bitcoincore.org/BITCOIN Security - Hy+HTTPS/nodeBITCOIN Security - Hy+HTTPS/h node g6/>%Amanciojsilvjr<CryptoGraphyBTC.orh BITCOIN-.org
 ## Reporting a Vulnerability bitcoin repository
 To report security issues send an email to netanojohhny@gmail.com.
 The following keys code: complete with D5833 Baseband version 8974-AAAAAJOHHNY2004ORKUTANAZQ-OO112-61 *#67# may be used to communicate sensitive information to developers:
